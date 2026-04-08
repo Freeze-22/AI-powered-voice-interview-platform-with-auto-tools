@@ -1,5 +1,88 @@
 {
-  "interviews": [],
+  "interviews": [
+    {
+      "session_id": "session_1775609369249_9gdg58",
+      "interview_type": "Technical Coding",
+      "interviewer_name": "AI",
+      "resume_text": "Sri Kiran Guttula     8143684699   #   2420600022mca@gmail.com   +   Hyderabad, Telangana  ï   linkedin.com/in/srikiranguttula   §   github.com/Freeze-22      credly.com/users/sri-kiran  Career Objective  Motivated MCA student seeking opportunities in   Software Engineering ,   AI Engineering , and   Cloud Engineering , with a strong foundation in programming, machine learning, and cloud technologies.  Education  Koneru Lakshmaiah Education Foundation (Deemed University)   2024 – 2026  Master of Computer Applications (MCA) — CGPA:   9.37   Hyderabad, TG  Presidency College, Bengaluru City University   2019 – 2022  Bachelor of Computer Applications (BCA) — CGPA:   8.01   Bengaluru, KA  Experience  AI Developer Intern   May 2025 – Jul 2025  Viswam.AI   Hyderabad, TG  •   Developed a   Retrieval-Augmented Generation (RAG)   based project, enhancing solution efficiency through advanced prompt engineering and real-world testing.  •   Collaborated on   Resume Radar , an ATS-like application for automating resume analysis and ranking; identified bugs and contributed via GitLab merge requests.  Recruitment Operations Executive   Apr 2023 – May 2024  Nisum Consulting Private Limited   Hyderabad, TG  •   Managed end-to-end hiring logistics across multiple regions using   Lever ATS ; extracted and transformed recruitment data into actionable reports for leadership.  •   Visualized recruitment trends, pipeline velocity, and candidate metrics via   Looker Studio   dashboards; optimized workflows using   GSuite   across global time zones.  Projects  OffGen: Offline AI-Powered Full Stack Generator   |   Python, FastAPI, React.js, Ollama, SQLite, WebSockets   Solo Project  •   Built an offline AI-powered full stack web application generator inspired by Replit and Bolt.new, generating complete   React + FastAPI + SQLite   projects from natural language prompts without internet connectivity.  •   Designed a   multi-stage LLM pipeline   (planning   →   database   →   backend   →   frontend   →   infra) with a self-interview engine using   Phi-3 Mini + Qwen2.5-Coder   via Ollama, optimized for resource-constrained hardware (8GB RAM, 2GB VRAM).  •   Implemented real-time   WebSocket streaming   for live generation progress and a   Monaco Editor -based IDE interface with file tree, syntax highlighting, and iterative chat-based refinement panel.  •   Engineered smart   context selection   and project versioning with rollback — enabling unlimited iterative refinement via natural language without regenerating from scratch; published as   IEEE research paper .  RAG Q&A Chatbot   |   Python, Streamlit, ChromaDB, Gemini API, Tiktoken, MarkItDown   Solo Project  •   Built a   Retrieval Augmented Generation   chatbot supporting multi-format document ingestion (PDF, Word, Excel, PPT) using   MarkItDown   parsing and   Tiktoken -based overlapping chunk splitting.  •   Implemented semantic search using   ChromaDB   with   all-MiniLM-L6-v2   sentence transformer embeddings, retrieving top-k relevant chunks as context for   Gemini API   powered question answering.  •   Built two-page   Streamlit   UI — document ingestion page and interactive chatbot page — with persistent vector storage across sessions using   ChromaDB PersistentClient .  Smart Crop Advisory System   |   Node.js, Express, React.js, MongoDB, TensorFlow.js, Docker   Team of 3  •   Developed full-stack crop advisory platform with   React.js + Tailwind CSS   frontend and   Node.js + Express.js   backend integrated with   TensorFlow.js   for ML inference.  •   Implemented secure JWT authentication, real-time notifications via   Socket.io , multilingual support, and PDF generation for reports.  •   Containerized application with   Docker , deployed on   AWS EC2 & S3   with   GitHub Actions   CI/CD pipeline.  EduConnect Platform   |   Node.js, Express, React.js, MongoDB, Docker   Team of 4  •   Built a full-stack educational platform with   React.js + Tailwind CSS   frontend and   Node.js + Express.js   backend featuring real-time collaboration via   Socket.io   and secure JWT authentication.  •   Engineered backend with   MongoDB   database, RESTful APIs, file uploads to   AWS S3 , and email notifications using  Nodemailer .  •   Deployed with   Docker   containerization,   GitHub Actions   CI/CD pipeline, and hosted on   AWS EC2 .  Technical Skills  Languages:   C, C++, Java, Python, R  Web:   HTML, CSS, JavaScript, React.js, Tailwind CSS, REST APIs  Databases:   MongoDB, SQLite, PostgreSQL  Frameworks:   Flask, SQLAlchemy, TensorFlow.js, Git, GitLab  Cloud:   AWS, Microsoft Azure\n\nCertifications  AWS Certified Cloud Practitioner   — Amazon Web Services   Feb 2026  AWS Certified AI Practitioner   — Amazon Web Services   Feb 2026  Microsoft AI Fundamentals (AI-900)   — Microsoft   Nov 2025  Achievements & Languages  CodeChef:   3-Star rating on competitive programming platform  Hackathons:   Participated in multiple national & college-level hackathons  Typing Speed:   80+ WPM with 100% accuracy (MonkeyType)  Languages Known:   English, Hindi, Telugu",
+      "job_description": "Software engineering",
+      "completed_at": "2026-04-08T00:55:56.594Z",
+      "overall_score": 75,
+      "report_json": {
+        "overallScore": 75,
+        "strengths": [
+          "Communication"
+        ],
+        "weaknesses": [
+          "Needs detail"
+        ],
+        "summary": "Fallback reporting mode activated.",
+        "toneLevel": "Unknown",
+        "vocabularyContext": "Unknown",
+        "testedTopics": [],
+        "notTestedTopics": []
+      }
+    },
+    {
+      "session_id": "session_1775620420042_zbnjxx",
+      "interview_type": "Technical Coding",
+      "interviewer_name": "Madhu",
+      "resume_text": "Sri Kiran Guttula     8143684699   #   2420600022mca@gmail.com   +   Hyderabad, Telangana  ï   linkedin.com/in/srikiranguttula   §   github.com/Freeze-22      credly.com/users/sri-kiran  Career Objective  Motivated MCA student seeking opportunities in   Software Engineering ,   AI Engineering , and   Cloud Engineering , with a strong foundation in programming, machine learning, and cloud technologies.  Education  Koneru Lakshmaiah Education Foundation (Deemed University)   2024 – 2026  Master of Computer Applications (MCA) — CGPA:   9.37   Hyderabad, TG  Presidency College, Bengaluru City University   2019 – 2022  Bachelor of Computer Applications (BCA) — CGPA:   8.01   Bengaluru, KA  Experience  AI Developer Intern   May 2025 – Jul 2025  Viswam.AI   Hyderabad, TG  •   Developed a   Retrieval-Augmented Generation (RAG)   based project, enhancing solution efficiency through advanced prompt engineering and real-world testing.  •   Collaborated on   Resume Radar , an ATS-like application for automating resume analysis and ranking; identified bugs and contributed via GitLab merge requests.  Recruitment Operations Executive   Apr 2023 – May 2024  Nisum Consulting Private Limited   Hyderabad, TG  •   Managed end-to-end hiring logistics across multiple regions using   Lever ATS ; extracted and transformed recruitment data into actionable reports for leadership.  •   Visualized recruitment trends, pipeline velocity, and candidate metrics via   Looker Studio   dashboards; optimized workflows using   GSuite   across global time zones.  Projects  OffGen: Offline AI-Powered Full Stack Generator   |   Python, FastAPI, React.js, Ollama, SQLite, WebSockets   Solo Project  •   Built an offline AI-powered full stack web application generator inspired by Replit and Bolt.new, generating complete   React + FastAPI + SQLite   projects from natural language prompts without internet connectivity.  •   Designed a   multi-stage LLM pipeline   (planning   →   database   →   backend   →   frontend   →   infra) with a self-interview engine using   Phi-3 Mini + Qwen2.5-Coder   via Ollama, optimized for resource-constrained hardware (8GB RAM, 2GB VRAM).  •   Implemented real-time   WebSocket streaming   for live generation progress and a   Monaco Editor -based IDE interface with file tree, syntax highlighting, and iterative chat-based refinement panel.  •   Engineered smart   context selection   and project versioning with rollback — enabling unlimited iterative refinement via natural language without regenerating from scratch; published as   IEEE research paper .  RAG Q&A Chatbot   |   Python, Streamlit, ChromaDB, Gemini API, Tiktoken, MarkItDown   Solo Project  •   Built a   Retrieval Augmented Generation   chatbot supporting multi-format document ingestion (PDF, Word, Excel, PPT) using   MarkItDown   parsing and   Tiktoken -based overlapping chunk splitting.  •   Implemented semantic search using   ChromaDB   with   all-MiniLM-L6-v2   sentence transformer embeddings, retrieving top-k relevant chunks as context for   Gemini API   powered question answering.  •   Built two-page   Streamlit   UI — document ingestion page and interactive chatbot page — with persistent vector storage across sessions using   ChromaDB PersistentClient .  Smart Crop Advisory System   |   Node.js, Express, React.js, MongoDB, TensorFlow.js, Docker   Team of 3  •   Developed full-stack crop advisory platform with   React.js + Tailwind CSS   frontend and   Node.js + Express.js   backend integrated with   TensorFlow.js   for ML inference.  •   Implemented secure JWT authentication, real-time notifications via   Socket.io , multilingual support, and PDF generation for reports.  •   Containerized application with   Docker , deployed on   AWS EC2 & S3   with   GitHub Actions   CI/CD pipeline.  EduConnect Platform   |   Node.js, Express, React.js, MongoDB, Docker   Team of 4  •   Built a full-stack educational platform with   React.js + Tailwind CSS   frontend and   Node.js + Express.js   backend featuring real-time collaboration via   Socket.io   and secure JWT authentication.  •   Engineered backend with   MongoDB   database, RESTful APIs, file uploads to   AWS S3 , and email notifications using  Nodemailer .  •   Deployed with   Docker   containerization,   GitHub Actions   CI/CD pipeline, and hosted on   AWS EC2 .  Technical Skills  Languages:   C, C++, Java, Python, R  Web:   HTML, CSS, JavaScript, React.js, Tailwind CSS, REST APIs  Databases:   MongoDB, SQLite, PostgreSQL  Frameworks:   Flask, SQLAlchemy, TensorFlow.js, Git, GitLab  Cloud:   AWS, Microsoft Azure\n\nCertifications  AWS Certified Cloud Practitioner   — Amazon Web Services   Feb 2026  AWS Certified AI Practitioner   — Amazon Web Services   Feb 2026  Microsoft AI Fundamentals (AI-900)   — Microsoft   Nov 2025  Achievements & Languages  CodeChef:   3-Star rating on competitive programming platform  Hackathons:   Participated in multiple national & college-level hackathons  Typing Speed:   80+ WPM with 100% accuracy (MonkeyType)  Languages Known:   English, Hindi, Telugu",
+      "job_description": "Embark on a transformative journey as a Software Engineer within Apple's Applied Machine Learning Team. You will assume a pivotal role in building and supporting the high-performance, scalable enterprise platforms that underpin our Search, Knowledge Graph, ML and inferencing systems. You shall be entrusted with the stewardship of ensuring unparalleled availability, optimal performance, and minimal latency for our high-throughput applications, thereby directly influencing and elevating the customer experience.\n\nYour responsibilities will encompass the development and optimal functioning of diverse workloads across ML/KG/Inference platforms, coupled with the exploration of, and building deep understanding of latest open source technologies and innovative solutions. A proven aptitude for outstanding interpersonal communication, a high degree of accountability and the capacity to collaborate seamlessly across multifaceted business and technical teams are paramount.\n",
+      "completed_at": "2026-04-08T03:55:43.330Z",
+      "overall_score": 70,
+      "report_json": {
+        "overallScore": 70,
+        "strengths": [
+          "Attempted to engage with all questions",
+          "Showed transparency about knowledge gaps"
+        ],
+        "weaknesses": [
+          "Limited depth in technical areas",
+          "Needs more hands-on project experience"
+        ],
+        "summary": "The candidate demonstrated honesty and basic knowledge. Report was generated in fallback mode — try again for full AI analysis.",
+        "toneLevel": "Hesitant",
+        "vocabularyContext": "Basic",
+        "testedTopics": [],
+        "notTestedTopics": []
+      }
+    },
+    {
+      "session_id": "session_1775624460960_ag2qz",
+      "interview_type": "Technical Coding",
+      "interviewer_name": "Madhu",
+      "resume_text": "Sri Kiran Guttula     8143684699   #   2420600022mca@gmail.com   +   Hyderabad, Telangana  ï   linkedin.com/in/srikiranguttula   §   github.com/Freeze-22      credly.com/users/sri-kiran  Career Objective  Motivated MCA student seeking opportunities in   Software Engineering ,   AI Engineering , and   Cloud Engineering , with a strong foundation in programming, machine learning, and cloud technologies.  Education  Koneru Lakshmaiah Education Foundation (Deemed University)   2024 – 2026  Master of Computer Applications (MCA) — CGPA:   9.37   Hyderabad, TG  Presidency College, Bengaluru City University   2019 – 2022  Bachelor of Computer Applications (BCA) — CGPA:   8.01   Bengaluru, KA  Experience  AI Developer Intern   May 2025 – Jul 2025  Viswam.AI   Hyderabad, TG  •   Developed a   Retrieval-Augmented Generation (RAG)   based project, enhancing solution efficiency through advanced prompt engineering and real-world testing.  •   Collaborated on   Resume Radar , an ATS-like application for automating resume analysis and ranking; identified bugs and contributed via GitLab merge requests.  Recruitment Operations Executive   Apr 2023 – May 2024  Nisum Consulting Private Limited   Hyderabad, TG  •   Managed end-to-end hiring logistics across multiple regions using   Lever ATS ; extracted and transformed recruitment data into actionable reports for leadership.  •   Visualized recruitment trends, pipeline velocity, and candidate metrics via   Looker Studio   dashboards; optimized workflows using   GSuite   across global time zones.  Projects  OffGen: Offline AI-Powered Full Stack Generator   |   Python, FastAPI, React.js, Ollama, SQLite, WebSockets   Solo Project  •   Built an offline AI-powered full stack web application generator inspired by Replit and Bolt.new, generating complete   React + FastAPI + SQLite   projects from natural language prompts without internet connectivity.  •   Designed a   multi-stage LLM pipeline   (planning   →   database   →   backend   →   frontend   →   infra) with a self-interview engine using   Phi-3 Mini + Qwen2.5-Coder   via Ollama, optimized for resource-constrained hardware (8GB RAM, 2GB VRAM).  •   Implemented real-time   WebSocket streaming   for live generation progress and a   Monaco Editor -based IDE interface with file tree, syntax highlighting, and iterative chat-based refinement panel.  •   Engineered smart   context selection   and project versioning with rollback — enabling unlimited iterative refinement via natural language without regenerating from scratch; published as   IEEE research paper .  RAG Q&A Chatbot   |   Python, Streamlit, ChromaDB, Gemini API, Tiktoken, MarkItDown   Solo Project  •   Built a   Retrieval Augmented Generation   chatbot supporting multi-format document ingestion (PDF, Word, Excel, PPT) using   MarkItDown   parsing and   Tiktoken -based overlapping chunk splitting.  •   Implemented semantic search using   ChromaDB   with   all-MiniLM-L6-v2   sentence transformer embeddings, retrieving top-k relevant chunks as context for   Gemini API   powered question answering.  •   Built two-page   Streamlit   UI — document ingestion page and interactive chatbot page — with persistent vector storage across sessions using   ChromaDB PersistentClient .  Smart Crop Advisory System   |   Node.js, Express, React.js, MongoDB, TensorFlow.js, Docker   Team of 3  •   Developed full-stack crop advisory platform with   React.js + Tailwind CSS   frontend and   Node.js + Express.js   backend integrated with   TensorFlow.js   for ML inference.  •   Implemented secure JWT authentication, real-time notifications via   Socket.io , multilingual support, and PDF generation for reports.  •   Containerized application with   Docker , deployed on   AWS EC2 & S3   with   GitHub Actions   CI/CD pipeline.  EduConnect Platform   |   Node.js, Express, React.js, MongoDB, Docker   Team of 4  •   Built a full-stack educational platform with   React.js + Tailwind CSS   frontend and   Node.js + Express.js   backend featuring real-time collaboration via   Socket.io   and secure JWT authentication.  •   Engineered backend with   MongoDB   database, RESTful APIs, file uploads to   AWS S3 , and email notifications using  Nodemailer .  •   Deployed with   Docker   containerization,   GitHub Actions   CI/CD pipeline, and hosted on   AWS EC2 .  Technical Skills  Languages:   C, C++, Java, Python, R  Web:   HTML, CSS, JavaScript, React.js, Tailwind CSS, REST APIs  Databases:   MongoDB, SQLite, PostgreSQL  Frameworks:   Flask, SQLAlchemy, TensorFlow.js, Git, GitLab  Cloud:   AWS, Microsoft Azure\n\nCertifications  AWS Certified Cloud Practitioner   — Amazon Web Services   Feb 2026  AWS Certified AI Practitioner   — Amazon Web Services   Feb 2026  Microsoft AI Fundamentals (AI-900)   — Microsoft   Nov 2025  Achievements & Languages  CodeChef:   3-Star rating on competitive programming platform  Hackathons:   Participated in multiple national & college-level hackathons  Typing Speed:   80+ WPM with 100% accuracy (MonkeyType)  Languages Known:   English, Hindi, Telugu",
+      "job_description": "AI ENGineering\n",
+      "completed_at": "2026-04-08T05:05:49.579Z",
+      "overall_score": 71,
+      "report_json": {
+        "overallScore": 71,
+        "strengths": [
+          "Maintained engagement across multiple questions",
+          "Communicated responses verbally",
+          "Showed willingness to be transparent about knowledge gaps"
+        ],
+        "weaknesses": [
+          "Could provide more technical depth in answers",
+          "Needs more hands-on project experience in the target domain"
+        ],
+        "summary": "The candidate completed 7 response turns across 8 interviewer questions.  The interview was conducted in offline mode — AI scoring based on conversation structure.",
+        "toneLevel": "Engaged",
+        "vocabularyContext": "Basic",
+        "testedTopics": [
+          "Project Experience",
+          "Time & Space Complexity",
+          "REST APIs",
+          "Behavioral"
+        ],
+        "notTestedTopics": [
+          "System Design",
+          "Live Code / Design Tools"
+        ]
+      }
+    }
+  ],
   "transcripts": [
     {
       "id": 1775608313173.062,
@@ -16,6 +99,566 @@
       "speech": "Hello! I'm your AI interviewer. Could you tell me about your experience?",
       "tool_trigger": null,
       "created_at": "2026-04-08T00:31:56.934Z"
+    },
+    {
+      "id": 1775609375008.7952,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "Hello! I'm your AI interviewer. Could you tell me about your experience?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:49:35.008Z"
+    },
+    {
+      "id": 1775609402511.2942,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "hello my name is Sri Kiran gotla I am currently pursing man station computer application at Kale University Bachupally Hyderabad",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:50:02.511Z"
+    },
+    {
+      "id": 1775609402511.262,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "Thanks for sharing, Sri Kiran. You mentioned you're pursuing MCA at KL University—what{",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:50:02.511Z"
+    },
+    {
+      "id": 1775609424291.458,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "MCA in cloud computing",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:50:24.291Z"
+    },
+    {
+      "id": 1775609424291.5808,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "Your resume highlights AI/ML projects like OffGen and RAG chatbots, plus recruitment ops using Lever ATS and Looker Studio. Since you're specializing in cloud computing, how have you applied cloud platforms (AWS/Azure/GCP) in your academic or project work?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:50:24.291Z"
+    },
+    {
+      "id": 1775609465653.1086,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "I am sorry I haven't upload applied cloud platforms like a w s as your a or gcp in my academic projects but I have learnt AI to will write projects and oxygen projects",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:51:05.653Z"
+    },
+    {
+      "id": 1775609465654.3613,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "Thanks for being transparent. Since you haven't used major cloud platforms in projects yet, could you explain the difference between IaaS, PaaS, and SaaS with one example each?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:51:05.654Z"
+    },
+    {
+      "id": 1775609521668.0208,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "yeah IAS transfer infrastructure has a service  basically the cloud provided will handle whole infrastructure the client for the user which uses have very much flexibility  and  pass is a platform has a service where the company did not did not to be worried about the infrastructure and SAS is a stands for service",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:52:01.668Z"
+    },
+    {
+      "id": 1775609521668.1914,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "Thanks for the overview. To dive a bit deeper, can you walk me through how youThanks for the overview. To dive a bit deeper, can you walk me through how you would deploy a simple web application on a cloud provider—what services you’d use for compute, storage, and networking, and how you’d make it scalable?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:52:01.668Z"
+    },
+    {
+      "id": 1775609561481.197,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "I'm sorry I can't answer it",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:52:41.481Z"
+    },
+    {
+      "id": 1775609561482.5483,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:52:41.482Z"
+    },
+    {
+      "id": 1775609586559.8494,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "like I don't know I don't know how to deploy",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:53:06.559Z"
+    },
+    {
+      "id": 1775609586560.974,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:53:06.560Z"
+    },
+    {
+      "id": 1775609612521.801,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "can we code I know Python and JavaScript",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:53:32.521Z"
+    },
+    {
+      "id": 1775609612521.285,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "Absolutely, let's code. Given your OffGen project used FastAPI and React, can you write a simple FastAPI endpoint that accepts a JSON payload and returns a processed result?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:53:32.521Z"
+    },
+    {
+      "id": 1775609639519.0667,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "I'm sorry I think I can do DSA code",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:53:59.519Z"
+    },
+    {
+      "id": 1775609639519.199,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "Let's do a coding problem instead. Given an array of integers, return indices of the two numbers that add up to a specific target. You may assume each input has exactly one solution, and you may not use the same element twice. Example: nums=[2,7,11,15], target=9 → [0,1]. How would you solve this in Python?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:53:59.519Z"
+    },
+    {
+      "id": 1775609700798.7202,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "I will narrated but do you think you have to introduce monacadootar here I have to bring a code editor and I'll write the code there and then the coordinator will",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:55:00.798Z"
+    },
+    {
+      "id": 1775609700799.2637,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:55:00.799Z"
+    },
+    {
+      "id": 1775609721181.827,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "I mean  I have to coding a coordinator can you bring the code editor",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:55:21.181Z"
+    },
+    {
+      "id": 1775609721182.028,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "We'll proceed by describing your solution approach here in text. Walk me through how you'd solve the two-sum problem in Python, including time and space complexity.",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:55:21.182Z"
+    },
+    {
+      "id": 1775609752470.6658,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "user",
+      "speech": "that's it I want to end the interview",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:55:52.470Z"
+    },
+    {
+      "id": 1775609752471.4,
+      "session_id": "session_1775609369249_9gdg58",
+      "speaker": "ai",
+      "speech": "Thank you for your time. We'll conclude here. Best of luck with your opportunities.",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:55:52.471Z"
+    },
+    {
+      "id": 1775610711487.6145,
+      "session_id": "session_1775610705787_3b908o",
+      "speaker": "ai",
+      "speech": "Hi Sri Kiran, I'm Alex, your interviewer today. I noticed you built an offline AI-powered full stack generator (OffGen) using Phi-3 Mini and Qwen2.5-Coder via Ollama—impressive! Can you walk me through how you handled model inference latency on resource-constrained hardware?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:11:51.487Z"
+    },
+    {
+      "id": 1775610744062.1042,
+      "session_id": "session_1775610705787_3b908o",
+      "speaker": "user",
+      "speech": "I just wife",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:12:24.062Z"
+    },
+    {
+      "id": 1775610744063.8872,
+      "session_id": "session_1775610705787_3b908o",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:12:24.063Z"
+    },
+    {
+      "id": 1775610769886.252,
+      "session_id": "session_1775610705787_3b908o",
+      "speaker": "user",
+      "speech": "I said I have wife coded it Vibe Vibe wipe code edit",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:12:49.886Z"
+    },
+    {
+      "id": 1775610769887.0974,
+      "session_id": "session_1775610705787_3b908o",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:12:49.887Z"
+    },
+    {
+      "id": 1775611040160.2686,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "Hello! I'm your AI interviewer. Could you tell me about your experience?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:17:20.160Z"
+    },
+    {
+      "id": 1775611067206.202,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "user",
+      "speech": "thank you",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:17:47.206Z"
+    },
+    {
+      "id": 1775611067206.7615,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:17:47.206Z"
+    },
+    {
+      "id": 1775611089010.3857,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "user",
+      "speech": "yeah I am Sri Kiran I am pursuing MCA in aimal engineering  in KL University Bachupally campus",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:18:09.010Z"
+    },
+    {
+      "id": 1775611089011.2207,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "Great, thanks for that background. You mentioned building a RAG-based project at Viswam.AI—could you walk me through the key challenges you faced with prompt engineering and how you measured the solution's efficiency?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:18:09.011Z"
+    },
+    {
+      "id": 1775611129316.4946,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "user",
+      "speech": "using long shot long shot from  I solve the efficiency",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:18:49.316Z"
+    },
+    {
+      "id": 1775611129316.6772,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:18:49.316Z"
+    },
+    {
+      "id": 1775611155368.9631,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "user",
+      "speech": "yes",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:19:15.368Z"
+    },
+    {
+      "id": 1775611155369.763,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "Could you describe a specific prompt engineering technique you used and how you evaluated its impact on the RAG system's performance?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:19:15.369Z"
+    },
+    {
+      "id": 1775611175242.132,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "user",
+      "speech": "I don't know",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:19:35.242Z"
+    },
+    {
+      "id": 1775611175242.0325,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "No worries. Let's step back—what was your specific role in developing that RAG project at Viswam.AI?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:19:35.242Z"
+    },
+    {
+      "id": 1775611198863.593,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "user",
+      "speech": "for document",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:19:58.863Z"
+    },
+    {
+      "id": 1775611198864.8794,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:19:58.864Z"
+    },
+    {
+      "id": 1775611222530.327,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "user",
+      "speech": "to read the document I have developed Rag application",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:20:22.530Z"
+    },
+    {
+      "id": 1775611222531.9158,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "I see. Could you walk me through how you handled document ingestion and chunking in that RAG application? Specifically, what techniques did you use for splitting text and generating embeddings?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:20:22.531Z"
+    },
+    {
+      "id": 1775611257692.9175,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "user",
+      "speech": "I don't know I live code edit  Vibe",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:20:57.692Z"
+    },
+    {
+      "id": 1775611257693.811,
+      "session_id": "session_1775611029201_yy4ofh",
+      "speaker": "ai",
+      "speech": "That's very interesting. Can you elaborate more on that point?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:20:57.693Z"
+    },
+    {
+      "id": 1775611398866.8052,
+      "session_id": "session_1775611387930_scai7p",
+      "speaker": "ai",
+      "speech": "Hello! I'm your AI interviewer. Could you tell me about your experience?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:23:18.866Z"
+    },
+    {
+      "id": 1775612977933.0852,
+      "session_id": "session_1775612975827_vmqsca",
+      "speaker": "ai",
+      "speech": "Hello! I'm your AI interviewer. Could you tell me about your experience?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:49:37.933Z"
+    },
+    {
+      "id": 1775613056179.821,
+      "session_id": "session_1775613054163_qh5bne",
+      "speaker": "ai",
+      "speech": "Hello! I'm your AI interviewer. Could you tell me about your experience?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T01:50:56.179Z"
+    },
+    {
+      "id": 1775620423157.7937,
+      "session_id": "session_1775620420042_zbnjxx",
+      "speaker": "ai",
+      "speech": "Hi, I am Madhu, your AI interviewer today. We will cover your background, your projects, and test your Technical Coding skills. To start — could you briefly introduce yourself?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T03:53:43.157Z"
+    },
+    {
+      "id": 1775620478925.9138,
+      "session_id": "session_1775620420042_zbnjxx",
+      "speaker": "user",
+      "speech": "hi my name is Vikram I am currently pursuing my Masters in computer application MCA from K University I have done to internship one is from dishoom where I was AI developer inter dare I have contributed to the cost of as well as have developed systems and in process and I was I have",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T03:54:38.925Z"
+    },
+    {
+      "id": 1775620478925.2705,
+      "session_id": "session_1775620420042_zbnjxx",
+      "speaker": "ai",
+      "speech": "Great to meet you, Vikram! Can you walk me through your most significant project and the key technical challenges you solved?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T03:54:38.925Z"
+    },
+    {
+      "id": 1775620501982.05,
+      "session_id": "session_1775620420042_zbnjxx",
+      "speaker": "user",
+      "speech": "yeah I have solved that the system",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T03:55:01.982Z"
+    },
+    {
+      "id": 1775620501983.834,
+      "session_id": "session_1775620420042_zbnjxx",
+      "speaker": "ai",
+      "speech": "Good. Can you explain time and space complexity with a simple example?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T03:55:01.983Z"
+    },
+    {
+      "id": 1775620535810.4917,
+      "session_id": "session_1775620420042_zbnjxx",
+      "speaker": "user",
+      "speech": "time time complexity is what like the time taken to run the program on the space form 50 that ways time  the total storage that taken by the  program",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T03:55:35.810Z"
+    },
+    {
+      "id": 1775620535812.2297,
+      "session_id": "session_1775620420042_zbnjxx",
+      "speaker": "ai",
+      "speech": "Thank you Vikram, this has been a great session. We covered your background, technical skills, and problem-solving. The interview is complete — your evaluation report will appear shortly.",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T03:55:35.812Z"
+    },
+    {
+      "id": 1775624463495.0212,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "ai",
+      "speech": "Hi, I am Madhu, your AI interviewer for today's Technical Coding interview. We will go through your background, explore your projects, test your technical depth, and wrap up with a few behavioral questions. Let's begin — could you introduce yourself and tell me what you are currently working on or studying?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:01:03.495Z"
+    },
+    {
+      "id": 1775624519093.2864,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "user",
+      "speech": "my name is Sri Kiran I am pursuing me Masters in computer applications in KL University Bachupally campus in Hyderabad I have done to internship money is at visham has AI developer inter and another one is at Infosystem both has in them both of both of them I have done because I am very much interested in a development as well as I am very much memory in LLM and other inferencing and friends",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:01:59.093Z"
+    },
+    {
+      "id": 1775624519094.1184,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "ai",
+      "speech": "Thank you for that introduction! I can see from your resume that you have worked on some interesting projects. What motivated you to pursue software engineering, and what has been your biggest learning so far?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:01:59.094Z"
+    },
+    {
+      "id": 1775624560954.8665,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "user",
+      "speech": "my motivation to purses after engineering is there is so much market here in the software engineering there is so much money in the market that's why I am pursuing software engineering and software only feel where he will work in any kind of thing any any domain anything like printed back in database I layer procedure anywhere we can work",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:02:40.954Z"
+    },
+    {
+      "id": 1775624560955.0725,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "ai",
+      "speech": "Interesting! What was the biggest technical challenge you faced in that project and how did you overcome it?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:02:40.955Z"
+    },
+    {
+      "id": 1775624579657.989,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "user",
+      "speech": "biggest technical challenge I have overcome these if we can see origin project type",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:02:59.657Z"
+    },
+    {
+      "id": 1775624579658.5032,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "ai",
+      "speech": "Let's talk about fundamentals. Can you explain the difference between a stack and a queue, and give me a real-world example where each would be preferred?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:02:59.658Z"
+    },
+    {
+      "id": 1775624620959.0593,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "user",
+      "speech": "one of the best example to showcase stack application and the key application is maybe one of the best example is in the bus ticket counter where we go to the line and the friend the friend person is there will be the best person like the one which will get first the last person will get lost",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:03:40.959Z"
+    },
+    {
+      "id": 1775624620961.3032,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "ai",
+      "speech": "Great. Can you explain what RESTful APIs are and the difference between GET, POST, PUT, and DELETE?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:03:40.961Z"
+    },
+    {
+      "id": 1775624659371.3064,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "user",
+      "speech": "get request get request post request and other other request me are the request methods which are used to I used for the http request methods where get request is to retrieve the data post request is to send the data in a secure way for request I don't know and delete request you delete the delete something",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:04:19.371Z"
+    },
+    {
+      "id": 1775624659372.1265,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "ai",
+      "speech": "Good attempt! Now, can you tell me the time complexity of your solution and how you would optimize it further?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:04:19.372Z"
+    },
+    {
+      "id": 1775624706889.0344,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "user",
+      "speech": "time complexity for what?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:05:06.889Z"
+    },
+    {
+      "id": 1775624706890.4302,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "ai",
+      "speech": "We're in the final stretch. Tell me about a time you received critical feedback on your work. How did you respond and what did you learn?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:05:06.890Z"
+    },
+    {
+      "id": 1775624742220.303,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "user",
+      "speech": "I didn't get any critical speed bank on my work because ever excellent in my work I was on point anything the work was a letter to me I was clearing about faster Pace and I was I wasn't lying anywhere",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:05:42.220Z"
+    },
+    {
+      "id": 1775624742222.0488,
+      "session_id": "session_1775624460960_ag2qz",
+      "speaker": "ai",
+      "speech": "Thank you Sri, this has been a great conversation! We covered your background, your projects, core technical concepts, a live challenge, and your career direction. I'll now generate your detailed evaluation report. Well done today!",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T05:05:42.222Z"
     }
   ]
 }

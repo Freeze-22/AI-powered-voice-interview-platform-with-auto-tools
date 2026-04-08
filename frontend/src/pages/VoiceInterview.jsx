@@ -9,7 +9,7 @@ const VoiceInterview = ({ params, onExit, onFinish }) => {
     const [status, setStatus] = useState('waiting');
     const [transcript, setTranscript] = useState('');
     const [conversation, setConversation] = useState([]);
-    const [interviewerName, setInterviewerName] = useState('AI');
+    const [interviewerName, setInterviewerName] = useState('Madhu');
     const [textInput, setTextInput] = useState('');
     const [errorMsg, setErrorMsg] = useState(null);
 
@@ -41,14 +41,9 @@ const VoiceInterview = ({ params, onExit, onFinish }) => {
         const femaleKeywords = ['female', 'zira', 'samantha', 'victoria', 'karen', 'moira', 'tessa', 'fiona', 'google uk english female'];
         
         const femaleVoice = pool.find(v => femaleKeywords.some(k => v.name.toLowerCase().includes(k)));
-        if (femaleVoice) {
-            chosenVoiceRef.current = femaleVoice;
-            setInterviewerName('Triveni');
-            return;
-        }
-        
-        chosenVoiceRef.current = pool[0];
-        setInterviewerName(pool[0].name.toLowerCase().includes('male') ? 'Bholu' : 'Triveni');
+        // Always use Madhu as the name - set femalevoice preferred
+        chosenVoiceRef.current = femaleVoice || pool[0];
+        setInterviewerName('Madhu');
     };
 
     const speakText = (text) => {

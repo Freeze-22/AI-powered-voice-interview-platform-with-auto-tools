@@ -1,9 +1,10 @@
 const FALLBACK_MODELS = [
-  'nvidia/nemotron-3-super-120b-a12b:free',
-  'google/gemini-2.5-pro-exp-03-25:free',
-  'meta-llama/llama-4-maverick:free',
-  'qwen/qwen-3.6-plus-preview:free',
-  'mistralai/devstral-2:free'
+  'meta-llama/llama-3.3-70b-instruct:free',  // Very reliable
+  'google/gemma-3-27b-it:free',              // Google's reliable free model
+  'deepseek/deepseek-chat-v3-0324:free',     // DeepSeek V3 (not R1)
+  'qwen/qwen-2.5-72b-instruct:free',         // Qwen 2.5 72B
+  'mistralai/mistral-7b-instruct:free',      // Mistral 7B
+  'microsoft/phi-4-reasoning-plus:free',     // Microsoft Phi 4
 ];
 
 const SYSTEM_PROMPTS = {
