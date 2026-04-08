@@ -1,0 +1,21 @@
+{
+  "interviews": [],
+  "transcripts": [
+    {
+      "id": 1775608313173.062,
+      "session_id": "session_1775608306310_rif2x",
+      "speaker": "ai",
+      "speech": "Hi, I'm AI, your interviewer. I've reviewed your resume and would like to start by asking about your AI Developer Intern role at Viswam.AI—what was the most challenging part of building the RAG-based project?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:31:53.173Z"
+    },
+    {
+      "id": 1775608316934.3362,
+      "session_id": "session_1775608306340_8a0ifs",
+      "speaker": "ai",
+      "speech": "Hello! I'm your AI interviewer. Could you tell me about your experience?",
+      "tool_trigger": null,
+      "created_at": "2026-04-08T00:31:56.934Z"
+    }
+  ]
+}
